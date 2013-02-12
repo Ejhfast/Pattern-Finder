@@ -1,0 +1,2770 @@
+[{:loci˛ﬂ:projects[I"activemodel_proj:ETI"activerecord_proj;TI"backup_proj;TI"bundler_proj;TI"cancan_proj;TI"capistrano_proj;TI"compass_proj;TI"cucumber_prok;TI"devise_proj;TI"diaspora_proj;TI"haml_proj;TI"homebrew_proj;TI"jekyll_proj;TI"mongoid_proj;TI"nokogiri_proj;TI"omni_proj;TI"paperclip_proj;TI"redmine_proj;TI"rescue_proj;TI"rspec_proj;TI"sinatra_proj;TI"SiriProxy_proj;TI"state_machine_proj;TI"twitter_proj;TI"whenever_proj;T:options[I"
+--var;TI"--just-calls;T[Z[I"var[0, 1];FI"var[0, 1];FI"var[0, 1];FI"var[0, 1];FI"var[0, 1];FI"var[0, 1];Fi[[	I";data//homebrew_proj/vendor/multi_json/vendor/okjson.rb;Ti8I"Ö(var << [var, var, var])
+var[(var.length..-1)]
+var[0]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1];Fi[	@.i9I"{var[(var.length..-1)]
+var[0]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1];Fi[	@.i:I"ovar[0]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1];Fi[	@.i;I"rvar[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1];Fi[	@.i<I"rvar[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1];Fi[	@.i=I"uvar[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+nulltok(var);Fi[	@.i>I"xvar[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+nulltok(var)
+truetok(var);Fi[	@.iHI"{truetok(var)
+falsetok(var)
+strtok(var)
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1];Fi[	@.iII"zfalsetok(var)
+strtok(var)
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+numtok(var);Fi[	@.iJI"}strtok(var)
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+var[0, 1]
+numtok(var)
+(var[0, 4] == "null");Fi[I"var.length;FI"(var < var);FI"var[var].is_a?(String);FI"var[var].ord;FI"var[var];FI"(var < 128);Fi
+[
+[	I"9data//redmine_proj/plugins/rfpdf/lib/fpdf/chinese.rb;TiI"¨(@var["type"] == "Type0")
+GetMBStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr]);Fi[	@KiZI"Í((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var);Fi[	I":data//redmine_proj/plugins/rfpdf/lib/fpdf/japanese.rb;TiI"Æ(@var["type"] == "Type0")
+GetSJISStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr]);Fi[	I"8data//redmine_proj/plugins/rfpdf/lib/fpdf/korean.rb;TiI"¨(@var["type"] == "Type0")
+GetMBStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr]);Fi[	@SiWI"Í((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var);Fi[I"assert(var.i386?.!);FI"assert(var.x86_64?.!);FI"assert(var.ppc7400?.!);FI"assert(var.ppc64?.!);FI"assert(var.dylib?.!);FI"%assert(var.mach_o_executable?.!);Fi
+[
+[	I"*data//homebrew_proj/test/test_mach.rb;Ti5I"Bassert_match(/Mach-O (64-bit )?executable/, file(var))
+Pathname.new("#{TEST_FOLDER}/mach/fat.bundle")
+assert(var.universal?)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?);Fi[	@`iVI"Iassert_match(/Mach-O 64-bit bundle/, file(var))
+Pathname.new("#{TEST_FOLDER}/tarballs/testball-0.1.tbz")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?.!);Fi[	@`ioI"(HOMEBREW_PREFIX / "foo_script")
+var.write("#!/bin/sh")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?)
+assert_equal([], var.archs);Fi[	@`i|I"(HOMEBREW_PREFIX / "foo_script")
+var.write("#! /usr/bin/perl -w")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?)
+assert_equal([], var.archs);Fi[	@`iÑI"(HOMEBREW_PREFIX / "foo_script")
+var.write(" #!")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert_equal([], var.archs);Fi[I"assert(var.x86_64?.!);FI"assert(var.ppc7400?.!);FI"assert(var.ppc64?.!);FI"assert(var.dylib?.!);F@]I"#assert(var.text_executable?.!);Fi	[	[	@`i6I">Pathname.new("#{TEST_FOLDER}/mach/fat.bundle")
+assert(var.universal?)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?)
+assert_match(/Mach-O (64-bit )?bundle/, file(var));Fi[	@`iAI"5Pathname.new("#{TEST_FOLDER}/mach/i386.bundle")
+assert(var.universal?.!)
+assert(var.i386?)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?)
+assert_match(/Mach-O bundle/, file(var));Fi[	@`iWI"6Pathname.new("#{TEST_FOLDER}/tarballs/testball-0.1.tbz")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?.!)
+assert((var.arch == :dunno));Fi[	@`iÖI"var.write(" #!")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert_equal([], var.archs)
+assert((var.arch == :dunno));Fi[I"@var["cw"];FI"(var == 0);FI"((@var - @var) - @var);FI")(((var - (2 * @var)) * 1000) / @var);FI"var.gsub("\r", "");FI"var.length;Fi	[	[	@Ki%I"Ò((var * @var) / 1000)
+(@var["type"] == "Type0")
+MBMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n");Fi[	@Pi%I"Û((var * @var) / 1000)
+(@var["type"] == "Type0")
+SJISMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n");Fi[	@Si"I"Ò((var * @var) / 1000)
+(@var["type"] == "Type0")
+MBMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n");Fi[	I"7data//redmine_proj/plugins/rfpdf/lib/rfpdf/fpdf.rb;TiI"ª(@var + var)
+(var == 1)
+(@var + var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)].chr == "\n");Fi[I"
+var.!;FI"(var.chr == " ");FI"1(var + (var ? (var[var.chr]) : (1000) or 0));FI"(var > var);FI"(var == -1);FI"(var == var);Fi	[	[	@Ki>I"Æ(var + 1)
+(var + 1)
+(var == 2)
+var.!
+(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(var == var)
+(var + (var ? (1) : (2)));Fi[	@KigI"…((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+var.!
+(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var);Fi[	@Si;I"Æ(var + 1)
+(var + 1)
+(var == 2)
+var.!
+(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(var == var)
+(var + (var ? (1) : (2)));Fi[	@SidI"…((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+var.!
+(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var);Fi[I"assert(var.universal?.!);FI"assert(var.i386?.!);FI"assert(var.x86_64?.!);FI"assert(var.ppc7400?.!);FI"assert(var.ppc64?.!);FI"assert(var.dylib?.!);Fi	[	[	@`iUI"Gassert(var.mach_o_bundle?)
+assert_match(/Mach-O 64-bit bundle/, file(var))
+Pathname.new("#{TEST_FOLDER}/tarballs/testball-0.1.tbz")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!);Fi[	@`inI"!(HOMEBREW_PREFIX / "foo_script").unlink
+(HOMEBREW_PREFIX / "foo_script")
+var.write("#!/bin/sh")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?);Fi[	@`i{I".assert_match(/text executable/, file(var))
+(HOMEBREW_PREFIX / "foo_script")
+var.write("#! /usr/bin/perl -w")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?);Fi[	@`iÉI" assert_match(/text executable/, file(var))
+(HOMEBREW_PREFIX / "foo_script")
+var.write(" #!")
+assert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!);Fi[I"(var == 0);FI"((@var - @var) - @var);F@}I"var.gsub("\r", "");FI"var.length;FI"(var > 0);Fi	[	[	@Ki&I"Â(@var["type"] == "Type0")
+MBMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1);Fi[	@Pi&I"Á(@var["type"] == "Type0")
+SJISMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1);Fi[	@Si#I"Â(@var["type"] == "Type0")
+MBMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1);Fi[	@ÉiI"∏(var == 1)
+(@var + var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)].chr == "\n")
+(var - 1);Fi[@zI"((@var - @var) - @var);FI")(((var - (2 * @var)) * 1000) / @var);FI"var.gsub("\r", "");FI"var.length;FI"(var < var);Fi	[	[	@KiVI"’(var == 2)
+(@var["type"] == "Type0")
+MBWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord;Fi[	@PiZI"◊(var == 2)
+(@var["type"] == "Type0")
+SJISWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord;Fi[	@SiSI"’(var == 2)
+(@var["type"] == "Type0")
+MBWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord;Fi[	@ÉiAI"„var.index("B").nil?.!
+(var + "B")
+self.Cell(var, var, var[(var..var)], var, 2, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var]
+(var == "\n"[0]);Fi[I"parse_arguments!(var, var);FI"var.options;FI"(var.size == 1);FI"var.options;FI"var.shift;FI"(var.size == 0);Fi	[	[	I"9data//compass_proj/compass/commands/project_stats.rb;Ti.I"Õoption_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[	I"<data//compass_proj/compass/commands/unpack_extension.rb;TiI"option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Please specify an extension to unpack.")
+raise(Compass::Error, "Too many arguments were specified.");Fi[	I"<data//compass_proj/compass/commands/validate_project.rb;TiI"Õoption_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[	I"?data//compass_proj/compass/commands/write_configuration.rb;Ti!I"Õoption_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[I"(var < var);FI"var[var].is_a?(String);FI"var[var].ord;FI"var[var];FI"(var < 128);FI"(var.chr == "\n");Fi	[	[	@Ki4I"ƒ(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var + 1);Fi[	@Ki[I"›(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var + 1);Fi[	@Si1I"ƒ(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var + 1);Fi[	@SiXI"›(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var + 1);Fi[I"var.parse!;F@ƒI"var.options;FI"(var.size == 1);FI"var.options;FI"var.shift;Fi	[	[	@Ãi-I"Ïvar.extend(StatsOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[	@œiI"Ùvar.extend(ExtensionOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Please specify an extension to unpack.");Fi[	@“iI"Òvar.extend(ValidationOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[	@’i I"Ùvar.extend(ConfigurationOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[I"option_parser(var);FI"var.parse!;F@ƒI"var.options;FI"(var.size == 1);FI"var.options;Fi	[	[	@Ãi,I"‡var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(StatsOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0);Fi[	@œiI"‰var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(ExtensionOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0);Fi[	@“iI"Âvar.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(ValidationOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0);Fi[	@’iI"Ëvar.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(ConfigurationOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0);Fi[I"option_parser([]).to_s;FI"option_parser(var);FI"var.parse!;F@ƒI"var.options;FI"(var.size == 1);Fi	[	[	@Ãi+I"ˇvar.extend(Compass::Exec::GlobalOptionsParser)
+var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(StatsOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift;Fi[	@œiI"var.extend(Compass::Exec::GlobalOptionsParser)
+var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(ExtensionOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift;Fi[	@“iI"var.extend(Compass::Exec::GlobalOptionsParser)
+var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(ValidationOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift;Fi[	@’iI"var.extend(Compass::Exec::GlobalOptionsParser)
+var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(ConfigurationOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift;Fi[I">Cell(var, var, var[var, (var - var)], 0, 2, "", var, var);FI"(var[var].chr == " ");FI"(var + 1);FI"(var == 1);FI"((@var - @var) - @var);FI")(((var - (2 * @var)) * 1000) / @var);Fi[[	@KivI"%(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + (var ? (1) : (2)));Fi[	@Pi}I"	(var == var)
+(var + var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + var);Fi[	@SisI"%(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + (var ? (1) : (2)));Fi[@˜@¯@ƒ@˘I"(var.size > 0);FI"File.directory?(var.first);Fi[[	I"9data//compass_proj/compass/commands/clean_project.rb;TiI"Òvar.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(CleanProjectOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift;Fi[	I"=data//compass_proj/compass/commands/project_structure.rb;TiI"Óvar.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(StructureOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift;Fi[	I":data//compass_proj/compass/commands/update_project.rb;Ti1I"Ûvar.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(CompileProjectOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift;Fi[I"	name;FI"@var.to_sexp;FI"(var + [var]);FI"@var.to_sexp;FI"var.any?;FI"(var + var);Fi[[	I"0data//cucumber_prok/cucumber/ast/feature.rb;Ti#I"Élanguage.keywords("feature")
+$1.strip
+init
+name
+@var.to_sexp
+(var + [var])
+@var.to_sexp
+var.any?
+(var + var)
+(var + [@var.to_sexp]);Fi[	I"1data//cucumber_prok/cucumber/ast/scenario.rb;TiI"ç@var.status
+@var.each
+@var.next_feature_element(self)
+name
+@var.to_sexp
+(var + [var])
+@var.to_sexp
+var.any?
+(var + var)
+@var.to_sexp
+var.any?;Fi[	I"9data//cucumber_prok/cucumber/ast/scenario_outline.rb;Ti#I"Ï@var.each
+var.visit_scenario_name(@var.language.keywords("scenario")[0], var.name, file_colon_line(var.line), source_indent(first_line_length))
+init
+name
+@var.to_sexp
+(var + [var])
+@var.to_sexp
+var.any?
+(var + var)
+@var.to_sexp
+var.any?;Fi[@Ë@ƒ@ÈI"(var.size > 0);F@$I"var.options;Fi[[	@'iI"Ãvar.extend(CleanProjectOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift
+var.empty?;Fi[	@*iI" var.extend(StructureOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift
+var.options;Fi[	@-i2I"Œvar.extend(CompileProjectOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift
+var.empty?;Fi[I"var.options;FI"(var.size == 1);FI"var.options;FI"var.shift;FI"(var.size == 0);FI"@raise(Compass::Error, "Too many arguments were specified.");Fi[[	@Ãi/I"∂option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[	@“iI"∂option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[	@’i"I"∂option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size == 1)
+var.options
+var.shift
+(var.size == 0)
+raise(Compass::Error, "Too many arguments were specified.");Fi[@ƒ@≈I"(var.size > 0);F@$I"var.options;FI"var.shift;Fi[[	@'iI"≤option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift
+var.empty?
+var.options;Fi[	@*iI"ßoption_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift
+var.options;Fi[	@-i3I"≤option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options
+var.shift
+var.empty?
+var.options;Fi[I"(var - var);FI"(var == 0);FI"(var / 20.0);FI"((var + var) - var);FI"scale_divisions;FI"(var / 10.0);Fi[[	I"(data//redmine_proj/SVG/Graph/Bar.rb;TiI"è@var[:fields]
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1);Fi[	I"2data//redmine_proj/SVG/Graph/BarHorizontal.rb;TiI"ãprotected
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1);Fi[	I")data//redmine_proj/SVG/Graph/Line.rb;TiI"é(var > @var)
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1);Fi[I"(@var + var);FI"((@var - @var) - @var);FI")(((var - (2 * @var)) * 1000) / @var);FI"(var + 1);FI"(var + 1);FI"(var == var);Fi[[	@KinI"‰(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1)
+(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var);Fi[	@SikI"‰(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1)
+(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var);Fi[	@ÉiTI"÷(var > var)
+(var == -1)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1)
+(var == var)
+(var + 1)
+self.Cell(var, var, var[var, (var - var)], 0, 2, "", 0, var);Fi[I"(var - 1);FI"(var == 1);FI"var.to_s.index("L").nil?;FI"var.to_s.index("R").nil?;FI"(var + "R");FI"var.to_s.index("T");Fi[[	@Ki-I"¨var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var);Fi[	@Pi-I"¨var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var);Fi[	@Si*I"¨var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var);Fi[I"(var == -1);FI"(var == var);FI"(@var > @var);FI"(@var + var);FI"((@var - @var) - @var);F@wi[[	@KikI"Õ(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1);Fi[	@PirI"™(var + 500)
+(var + 1000)
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + var)
+(var + 1);Fi[	@SihI"Õ(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1);Fi[I"TestBall.new;FI"var.stable.instance_eval;FI"good_checksum(var);FI"TestBall.new;FI"var.stable.instance_eval;FI"bad_checksum(var);Fi[[	I"/data//homebrew_proj/test/test_checksums.rb;Ti	I"Írequire("test/testball")
+assert_nothing_raised
+assert_raises(ChecksumMismatchError)
+TestBall.new
+var.stable.instance_eval
+good_checksum(var)
+TestBall.new
+var.stable.instance_eval
+bad_checksum(var)
+TestBall.new
+var.stable.instance_eval;Fi[	@¶iI"ŒTestBall.new
+var.stable.instance_eval
+bad_checksum(var)
+TestBall.new
+var.stable.instance_eval
+good_checksum(var)
+TestBall.new
+var.stable.instance_eval
+bad_checksum(var)
+TestBall.new
+var.stable.instance_eval;Fi[	@¶iI"®TestBall.new
+var.stable.instance_eval
+bad_checksum(var)
+TestBall.new
+var.stable.instance_eval
+good_checksum(var)
+TestBall.new
+var.stable.instance_eval
+bad_checksum(var);Fi[I",assert_equal(var.head, var.active_spec);FI".assert_version_equal("HEAD", var.version);FI""assert_nil(var.head.checksum);FI"Bassert_equal("https://github.com/mxcl/homebrew.git", var.url);FI"=assert_equal(GitDownloadStrategy, var.download_strategy);FI"<assert_instance_of(GitDownloadStrategy, var.downloader);Fi[[	I"-data//homebrew_proj/test/test_formula.rb;Ti}I"≤assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new;Fi[	@µiÑI"≤assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new;Fi[	@µiêI"≤assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+ExplicitStrategySpecTestBall.new;Fi[@Æ@Ø@∞@±@≤I"3assert_instance_of(HeadSoftwareSpec, var.head);Fi[[	@µi~I"¥assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new
+assert_not_nil(var.head);Fi[	@µiÖI"¥assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new
+assert_not_nil(var.head);Fi[	@µiëI"∂assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+ExplicitStrategySpecTestBall.new
+assert_not_nil(var.stable);Fi[I"assert_nil(var.bottle);FI"assert_nil(var.devel);FI",assert_equal(var.head, var.active_spec);FI".assert_version_equal("HEAD", var.version);F@Ø@∞i[[	@µi{I"îHeadOnlySpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader);Fi[	@µiÇI"úIncompleteStableSpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader);Fi[	@µiéI"úIncompleteStableSpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader);Fi[I"assert_not_nil(var.head);FI"assert_nil(var.stable);FI"assert_nil(var.bottle);FI"assert_nil(var.devel);F@«@»i[[	@µiyI"XAncientBottleSpecTestBall.new
+assert_nil(var.bottle)
+HeadOnlySpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url);Fi[	@µiÄI"íassert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url);Fi[	@µiåI"íassert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url);Fi[I"assert_nil(var.stable);FI"assert_nil(var.bottle);FI"assert_nil(var.devel);F@«@»@Øi[[	@µizI"sassert_nil(var.bottle)
+HeadOnlySpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy);Fi[	@µiÅI"ìassert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy);Fi[	@µiçI"ìassert_instance_of(HeadSoftwareSpec, var.head)
+IncompleteStableSpecTestBall.new
+assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy);Fi[I"assert_nil(var.devel);F@«@»@Ø@∞@±i[[	@µi|I"™assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head);Fi[	@µiÉI"™assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head);Fi[	@µièI"™assert_not_nil(var.head)
+assert_nil(var.stable)
+assert_nil(var.bottle)
+assert_nil(var.devel)
+assert_equal(var.head, var.active_spec)
+assert_version_equal("HEAD", var.version)
+assert_nil(var.head.checksum)
+assert_equal("https://github.com/mxcl/homebrew.git", var.url)
+assert_equal(GitDownloadStrategy, var.download_strategy)
+assert_instance_of(GitDownloadStrategy, var.downloader)
+assert_instance_of(HeadSoftwareSpec, var.head);Fi[I"@var.each;FI"@var.each_pair;FI"@var.each_pair;FI"out("/Subtype /Type0");FI"?out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]));FI"'out(("/Encoding /" + var["CMap"]));Fi[[	@Ki|I"Bvar.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>");Fi[	@PiÑI"Bvar.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>");Fi[	@Si~I"Bvar.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>");Fi[I"(var > 0);FI"(var[(var - 1)] == "\n");FI"(var - 1);FI"(var == 1);F@Ö@Üi[[	@Ki+I"Ã(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T");Fi[	@Pi+I"Ã(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T");Fi[	@Si(I"Ã(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T");Fi[I"assert(var.ppc7400?.!);FI"assert(var.ppc64?.!);FI"assert(var.dylib?.!);F@]@oI"assert(var.mach_o_bundle?);Fi[[	@`i7I"?assert(var.universal?)
+assert(var.i386?.!)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?)
+assert_match(/Mach-O (64-bit )?bundle/, file(var))
+Pathname.new("#{TEST_FOLDER}/mach/i386.bundle");Fi[	@`iBI"7assert(var.universal?.!)
+assert(var.i386?)
+assert(var.x86_64?.!)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?)
+assert_match(/Mach-O bundle/, file(var))
+Pathname.new("#{TEST_FOLDER}/mach/x86_64.bundle");Fi[	@`iMI"Eassert(var.universal?.!)
+assert(var.i386?.!)
+assert(var.x86_64?)
+assert(var.ppc7400?.!)
+assert(var.ppc64?.!)
+assert(var.dylib?.!)
+assert(var.mach_o_executable?.!)
+assert(var.text_executable?.!)
+assert(var.mach_o_bundle?)
+assert_match(/Mach-O 64-bit bundle/, file(var))
+Pathname.new("#{TEST_FOLDER}/tarballs/testball-0.1.tbz");Fi[I"(var == 1);F@Ö@ÜI"(var + "R");FI"var.to_s.index("T");FI"(var + "T");Fi[[	@Ki.I"∏(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String);Fi[	@Pi.I"∏(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String);Fi[	@Si+I"∏(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String);Fi[I"var[var].ord;FI"var[var];FI"(var < 128);FI"var[var.chr];FI"(var + var[var.chr]);FI"(var + 1);Fi[[	@KiI"ívar.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1)
+(var + 1000)
+(var + 2);Fi[	@PiI"ïvar.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1)
+(var >= 161)
+(var <= 223);Fi[	@SiI"ívar.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1)
+(var + 1000)
+(var + 2);Fi[I"var.!=(var);FI"RCell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var);FI"private;FI"@var.each;FI"@var.each_pair;FI"@var.each_pair;Fi[[	@Ki~I"$(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + (var ? (1) : (2)))
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]));Fi[	@PiÅI"˛(var + 1)
+(var + var)
+(var >= 128)
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]));Fi[	@Si{I"$(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + (var ? (1) : (2)))
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]));Fi[I",AddCIDFont(var, "", var, var, var, var);FI"9AddCIDFont(var, "B", (var + ",Bold"), var, var, var);FI";AddCIDFont(var, "I", (var + ",Italic"), var, var, var);FI"@AddCIDFont(var, "BI", (var + ",BoldItalic"), var, var, var);FI")AddCIDFonts(var, var, var, var, var);FI"32.upto(126);Fi[[	@Ki
+I"ôError("Font already added: family style")
+(@var.length + 1)
+var.gsub(" ", "")
+AddCIDFont(var, "", var, var, var, var)
+AddCIDFont(var, "B", (var + ",Bold"), var, var, var)
+AddCIDFont(var, "I", (var + ",Italic"), var, var, var)
+AddCIDFont(var, "BI", (var + ",BoldItalic"), var, var, var)
+AddCIDFonts(var, var, var, var, var)
+32.upto(126)
+AddCIDFonts(var, var, var, var, var)
+AddCIDFonts(var, var, var, var, var);Fi[	@Pi	I"é@var[var].nil?
+Error("CID font already added: family style")
+(@var.length + 1)
+AddCIDFont(var, "", var, var, var, var)
+AddCIDFont(var, "B", (var + ",Bold"), var, var, var)
+AddCIDFont(var, "I", (var + ",Italic"), var, var, var)
+AddCIDFont(var, "BI", (var + ",BoldItalic"), var, var, var)
+AddCIDFonts(var, var, var, var, var)
+32.upto(126)
+AddCIDFonts(var, var, cw, var, var)
+(@var["type"] == "Type0");Fi[	@Si
+I"çError("Font already added: family style")
+(@var.length + 1)
+var.gsub(" ", "")
+AddCIDFont(var, "", var, var, var, var)
+AddCIDFont(var, "B", (var + ",Bold"), var, var, var)
+AddCIDFont(var, "I", (var + ",Italic"), var, var, var)
+AddCIDFont(var, "BI", (var + ",BoldItalic"), var, var, var)
+AddCIDFonts(var, var, var, var, var)
+32.upto(126)
+AddCIDFonts(var, var, cw, var, var)
+(@var["type"] == "Type0");Fi[@zI"var.length;FI"(var < var);FI"var[var].is_a?(String);FI"var[var].ord;FI"var[var];Fi[[	@KiI"ªAddCIDFonts(var, var, cw, var, var)
+(@var["type"] == "Type0")
+GetMBStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr];Fi[	@PiI"ΩAddCIDFonts(var, var, cw, var, var)
+(@var["type"] == "Type0")
+GetSJISStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr];Fi[	@SiI"ªAddCIDFonts(var, var, cw, var, var)
+(@var["type"] == "Type0")
+GetMBStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr];Fi[@¶I"(var / 20.0);FI"((var + var) - var);FI"scale_divisions;FI"(var / 10.0);FI"scale_integers;Fi[[	@liI"ãmax_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round;Fi[	@oiI"ãmax_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round;Fi[	@riI"ãmax_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round;Fi[@CI"(var > 0);F@ I"(var - 1);FI"(var == 1);F@Öi[[	@Ki*I"œ((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R");Fi[	@Pi*I"œ((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R");Fi[	@Si'I"œ((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R");Fi[@ÿ@Ÿ@⁄@€@‹I"var[var.chr];Fi[[	@KiI"úGetMBStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1);Fi[	@PiI"ûGetSJISStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1);Fi[	@SiI"úGetMBStringWidth(var)
+@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1);Fi[I"private;FI"@var.each;FI"@var.each_pair;FI"@var.each_pair;FI"out("/Subtype /Type0");F@ıi[[	@Ki{I"R(var + (var ? (1) : (2)))
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"));Fi[	@PiÉI"E(var >= 128)
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"));Fi[	@Si}I"R(var + (var ? (1) : (2)))
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"));Fi[I"var[var].is_a?(String);FI"var[var].ord;FI"var[var];FI"(var < 128);FI"var[var.chr];FI"(var + var[var.chr]);Fi[[	@KiI"ì@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1)
+(var + 1000);Fi[	@PiI"ì@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1)
+(var >= 161);Fi[	@SiI"ì@var["cw"]
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+var[var.chr]
+(var + var[var.chr])
+(var + 1)
+(var + 1000);Fi[I"((@var - @var) - @var);F@}I"var.gsub("\r", "");FI"var.length;FI"(var > 0);F@ i[[	@Ki'I"÷MBMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1);Fi[	@Pi'I"ÿSJISMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1);Fi[	@Si$I"÷MBMultiCell(var, var, var, var, var, var, var)
+@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1);Fi[@ñ@}@ó@òI"(var < var);FI"var[var].is_a?(String);Fi[[	@KiWI"”(@var["type"] == "Type0")
+MBWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var];Fi[	@Pi[I"’(@var["type"] == "Type0")
+SJISWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var];Fi[	@SiTI"”(@var["type"] == "Type0")
+MBWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var];Fi[@}I"var.gsub("\r", "");FI"var.length;FI"(var > 0);F@ I"(var - 1);Fi[[	@Ki(I"¿@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?;Fi[	@Pi(I"¿@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?;Fi[	@Si%I"¿@var["cw"]
+(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?;Fi[@}@¨@≠I"(var < var);FI"var[var].is_a?(String);FI"var[var].ord;Fi[[	@KiXI"≈MBWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128);Fi[	@Pi\I"«SJISWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var == 10);Fi[	@SiUI"≈MBWrite(var, var, var, var)
+@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128);Fi[I"var.gsub("\r", "");FI"var.length;FI"(var > 0);F@ I"(var - 1);FI"(var == 1);Fi[[	@Ki)I"Œ(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?;Fi[	@Pi)I"Œ(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?;Fi[	@Si&I"Œ(var == 0)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?;Fi[@√@ƒI"(var < var);FI"var[var].is_a?(String);FI"var[var].ord;FI"var[var];Fi[[	@KiYI"ª@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n");Fi[	@Pi]I"„@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var == 10)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var);Fi[	@SiVI"ª@var["cw"]
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+var.gsub("\r", "")
+var.length
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n");Fi[@ I"(var - 1);FI"(var == 1);F@Ö@ÜI"(var + "R");Fi[[	@Ki,I"≥var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T");Fi[	@Pi,I"≥var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T");Fi[	@Si)I"≥var.gsub("\r", "")
+var.length
+(var > 0)
+(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T");Fi[@Ö@ÜI"(var + "R");FI"var.to_s.index("T");FI"(var + "T");FI"(var < var);Fi[[	@Ki/I"ª(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord;Fi[	@Pi/I"ª(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord;Fi[	@Si,I"ª(var[(var - 1)] == "\n")
+(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord;Fi[@ÜI"(var + "R");FI"var.to_s.index("T");FI"(var + "T");FI"(var < var);FI"var[var].is_a?(String);Fi[[	@Ki0I"´(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var];Fi[	@Pi0I"´(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var];Fi[	@Si-I"´(var - 1)
+(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var];Fi[I"(var + "R");FI"var.to_s.index("T");FI"(var + "T");FI"(var < var);FI"var[var].is_a?(String);FI"var[var].ord;Fi[[	@Ki1I"≠(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128);Fi[	@Pi1I"≠(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var == 10);Fi[	@Si.I"≠(var == 1)
+var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128);Fi[I"var.to_s.index("T");FI"(var + "T");FI"(var < var);FI"var[var].is_a?(String);FI"var[var].ord;FI"var[var];Fi[[	@Ki2I"¥var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n");Fi[	@Pi2I"⁄var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var == 10)
+Cell(var, var, var[var, (var - var)], var, 2, var, var);Fi[	@Si/I"¥var.to_s.index("L").nil?
+var.to_s.index("R").nil?
+(var + "R")
+var.to_s.index("T")
+(var + "T")
+(var < var)
+var[var].is_a?(String)
+var[var].ord
+var[var]
+(var < 128)
+(var.chr == "\n");Fi[I"<Cell(var, var, var[var, (var - var)], var, 2, var, var);FI"<Cell(var, var, var[var, (var - var)], var, 2, var, var);FI"(var[var].chr == " ");FI"(var + 1);FI"(var + 1);FI"(var == 2);Fi[[	@KiFI"(var == var)
+(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var[var].chr == " ")
+(var + 1)
+(var + 1)
+(var == 2)
+(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!;Fi[	@PiII"„(var == var)
+(var == var)
+(var + var)
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var[var].chr == " ")
+(var + 1)
+(var + 1)
+(var == 2)
+(var + var)
+(var >= 128);Fi[	@SiCI"(var == var)
+(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var[var].chr == " ")
+(var + 1)
+(var + 1)
+(var == 2)
+(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!;Fi[@I"(var == 1);FI"(var == 0);FI"(var + var);FI"(var == 2);FI"(@var["type"] == "Type0");Fi[[	@KiOI"Ê(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0")
+MBWrite(var, var, var, var)
+@var["cw"];Fi[	@PiSI"€(var >= 128)
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0")
+SJISWrite(var, var, var, var)
+@var["cw"];Fi[	@SiLI"Ê(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0")
+MBWrite(var, var, var, var)
+@var["cw"];Fi[I"(var > var);FI"(var == -1);FI"(var == var);FI"(@var > @var);FI"(@var + var);FI"((@var - @var) - @var);Fi[[	@KijI"…var.!
+(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1);Fi[	@PiqI"≠(var <= 223)
+(var + 500)
+(var + 1000)
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + var);Fi[	@SigI"…var.!
+(var.chr == " ")
+(var + (var ? (var[var.chr]) : (1000) or 0))
+(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1);Fi[I"(var[var].chr == " ");FI"(var + 1);FI"(var == 1);FI"((@var - @var) - @var);F@I"(var + 1);Fi[[	@KiwI"$(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + (var ? (1) : (2)))
+var.!=(var);Fi[	@Pi~I"	(var + var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + var)
+(var >= 128);Fi[	@SitI"$(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + (var ? (1) : (2)))
+var.!=(var);Fi[I"var.to_s.index("B").nil?.!;FI"(var + "B");FI"<Cell(var, var, var[var, (var - var)], var, 2, var, var);FI"(var == 1);FI"(var == 0);FI"(var + var);Fi[[	@KiMI"‘(var + 1)
+(var == 2)
+(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0");Fi[	@PiQI"…(var == 2)
+(var + var)
+(var >= 128)
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0");Fi[	@SiJI"‘(var + 1)
+(var == 2)
+(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0");Fi[I"(var + "B");F@TI"(var == 1);FI"(var == 0);FI"(var + var);FI"(var == 2);Fi[[	@KiNI"Ê(var == 2)
+(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0")
+MBWrite(var, var, var, var);Fi[	@PiRI"‹(var + var)
+(var >= 128)
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0")
+SJISWrite(var, var, var, var);Fi[	@SiKI"Ê(var == 2)
+(var + (var ? (1) : (2)))
+var.to_s.index("B").nil?.!
+(var + "B")
+Cell(var, var, var[var, (var - var)], var, 2, var, var)
+(var == 1)
+(var == 0)
+(var + var)
+(var == 2)
+(@var["type"] == "Type0")
+MBWrite(var, var, var, var);Fi[@I"(var + 1);FI"(var == 1);FI"((@var - @var) - @var);FI")(((var - (2 * @var)) * 1000) / @var);FI"(var + 1);Fi[[	@KiaI"“var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+var.!
+(var.chr == " ");Fi[	@PidI"ﬁvar[var].ord
+var[var]
+(var == 10)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var < 128)
+(var + (var[var.chr] or 0));Fi[	@Si^I"“var[var]
+(var < 128)
+(var.chr == "\n")
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+var.!
+(var.chr == " ");Fi[@I">Cell(var, var, var[var, (var - var)], 0, 2, "", var, var);FI"(var[var].chr == " ");FI"(var + 1);FI"(var == 1);FI"((@var - @var) - @var);Fi[[	@KiuI"(var + 1)
+(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1);Fi[	@Pi|I"(var + 1)
+(var == var)
+(var + var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1);Fi[	@SirI"(var + 1)
+(var == var)
+(var + (var ? (1) : (2)))
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+Cell(var, var, var[var, (var - var)], 0, 2, "", var, var)
+(var[var].chr == " ")
+(var + 1)
+(var == 1)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1);Fi[@@@@ƒ@	I"(var.size > 0);Fi[[	@'iI"var.extend(Compass::Exec::GlobalOptionsParser)
+var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(CleanProjectOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options;Fi[	@*iI"var.extend(Compass::Exec::GlobalOptionsParser)
+var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(StructureOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options;Fi[	@-i0I"var.extend(Compass::Exec::GlobalOptionsParser)
+var.extend(Compass::Exec::ProjectOptionsParser)
+var.extend(CompileProjectOptionsParser)
+option_parser([]).to_s
+option_parser(var)
+var.parse!
+parse_arguments!(var, var)
+var.options
+(var.size > 0)
+File.directory?(var.first)
+var.options;Fi[I"(@var > @var);FI"(@var + var);FI"((@var - @var) - @var);F@wI"(var + 1);FI"(var + 1);Fi[[	@KimI"∂(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1)
+(var == var)
+(var + (var ? (1) : (2)));Fi[	@SijI"∂(var > var)
+(var == -1)
+(var == var)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1)
+(var == var)
+(var + (var ? (1) : (2)));Fi[	@ÉiSI"∏(var + GetCharWidth(var, var))
+(var > var)
+(var == -1)
+(@var > @var)
+(@var + var)
+((@var - @var) - @var)
+(((var - (2 * @var)) * 1000) / @var)
+(var + 1)
+(var + 1)
+(var == var)
+(var + 1);Fi[@2I"private;FI"@var.each;FI"@var.each_pair;FI"@var.each_pair;FI"out("/Subtype /Type0");Fi[[	@KiI""(var + 1)
+(var + (var ? (1) : (2)))
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]));Fi[	@PiÇI"(var + var)
+(var >= 128)
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]));Fi[	@Si|I""(var + 1)
+(var + (var ? (1) : (2)))
+var.!=(var)
+Cell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]));Fi[I"@var.each_pair;FI"@var.each_pair;FI"out("/Subtype /Type0");F@ı@ˆI">out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"));Fi[[	@Ki}I"DCell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj");Fi[	@PiÖI"DCell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj");Fi[	@SiI"DCell(((var * @var) / 1000.0), var, var[var, (var - var)], 0, 0, "", var, var)
+private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj");Fi[@™I"out("/Subtype /Type0");F@ı@ˆ@≠I"out(">>");Fi[[	@Ki~I"˝private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj;Fi[	@PiÜI"˝private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj;Fi[	@Si{I"˝private
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj;Fi[I"out("/Subtype /Type0");F@ı@ˆ@≠I"out(">>");FI"out("endobj");Fi[[	@KiI"
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font");Fi[	@PiáI"
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font");Fi[	@Si|I"
+@var.each
+@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font");Fi[@ı@ˆ@≠I"out(">>");FI"out("endobj");FI"newobj;Fi[[	@KiÄI"@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0");Fi[	@PiàI"@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0");Fi[	@Si}I"@var.each_pair
+@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0");Fi[@ˆ@≠I"out(">>");FI"out("endobj");FI"newobj;FI"out("<</Type /Font");Fi[[	@KiÅI"2@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]));Fi[	@PiâI"2@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]));Fi[	@Si~I"2@var.each_pair
+out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]));Fi[@≠I"out(">>");FI"out("endobj");FI"newobj;FI"out("<</Type /Font");FI""out("/Subtype /CIDFontType0");Fi[[	@KiÇI"‡out("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]))
+out((((((("/CIDSystemInfo <</Registry " + textstring("Adobe")) + " /Ordering ") + textstring(var["registry"]["ordering"])) + " /Supplement ") + var["registry"]["supplement"].to_s) + ">>"));Fi[	@PiäI"æout("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]))
+out((((("/CIDSystemInfo <</Registry (Adobe) /Ordering (" + var["registry"]["ordering"]) + ") /Supplement ") + var["registry"]["supplement"].to_s) + ">>"));Fi[	@SiI"æout("/Subtype /Type0")
+out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]))
+out((((("/CIDSystemInfo <</Registry (Adobe) /Ordering (" + var["registry"]["ordering"]) + ") /Supplement ") + var["registry"]["supplement"].to_s) + ">>"));Fi[I"out(">>");FI"out("endobj");FI"newobj;FI"out("<</Type /Font");F@ÊI"'out(("/BaseFont /" + var["name"]));Fi[[	@KiÉI" out(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]))
+out((((((("/CIDSystemInfo <</Registry " + textstring("Adobe")) + " /Ordering ") + textstring(var["registry"]["ordering"])) + " /Supplement ") + var["registry"]["supplement"].to_s) + ">>"))
+out((("/FontDescriptor " + (@var + 1).to_s) + " 0 R"));Fi[	@PiãI"ﬁout(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]))
+out((((("/CIDSystemInfo <</Registry (Adobe) /Ordering (" + var["registry"]["ordering"]) + ") /Supplement ") + var["registry"]["supplement"].to_s) + ">>"))
+out((("/FontDescriptor " + (@var + 1).to_s) + " 0 R"));Fi[	@SiÄI"ﬁout(((("/BaseFont /" + var["name"]) + "-") + var["CMap"]))
+out(("/Encoding /" + var["CMap"]))
+out((("/DescendantFonts [" + (@var + 1).to_s) + " 0 R]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /Font")
+out("/Subtype /CIDFontType0")
+out(("/BaseFont /" + var["name"]))
+out((((("/CIDSystemInfo <</Registry (Adobe) /Ordering (" + var["registry"]["ordering"]) + ") /Supplement ") + var["registry"]["supplement"].to_s) + ">>"))
+out((("/FontDescriptor " + (@var + 1).to_s) + " 0 R"));Fi[I"out("endobj");FI"newobj;FI"#out("<</Type /FontDescriptor");FI"'out(("/FontName /" + var["name"]));FI"out("/Flags 6");FI"'out("/FontBBox [0 -200 1000 900]");Fi[[	@KièI"(var["CMap"] == "GBK-EUC-H")
+var["cw"].keys.sort.each
+out((("/W [" + var) + "]>>"))
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800");Fi[	@PiñI"	var["cw"].keys.sort.each
+out((var + "] 231 325 500 631 [500] 326 389 500]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800");Fi[	@SiãI"(var["CMap"] == "KSCms-UHC-HW-H")
+var["cw"].keys.sort.each
+out((("/W [" + var) + "]>>"))
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800");Fi[I"newobj;F@˛@ˇI"out("/Flags 6");F@I"out("/ItalicAngle 0");Fi[[	@KiêI"˛var["cw"].keys.sort.each
+out((("/W [" + var) + "]>>"))
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200");Fi[	@PióI"out((var + "] 231 325 500 631 [500] 326 389 500]"))
+out(">>")
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200");Fi[	@SiåI"˛var["cw"].keys.sort.each
+out((("/W [" + var) + "]>>"))
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200");Fi[@˛@ˇI"out("/Flags 6");F@I"out("/ItalicAngle 0");FI"out("/Ascent 800");Fi[[	@KiëI"˚out((("/W [" + var) + "]>>"))
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800");Fi[	@PiòI"Áout(">>")
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800");Fi[	@SiçI"˚out((("/W [" + var) + "]>>"))
+out("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800");Fi[@ˇI"out("/Flags 6");F@I"out("/ItalicAngle 0");FI"out("/Ascent 800");FI"out("/Descent -200");Fi[[	@KiíI"Óout("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800")
+out("/StemV 50");Fi[	@PiôI"Óout("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800")
+out("/StemV 60");Fi[	@SiéI"Óout("endobj")
+newobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800")
+out("/StemV 50");Fi[I"out("/Flags 6");F@I"out("/ItalicAngle 0");FI"out("/Ascent 800");FI"out("/Descent -200");FI"out("/CapHeight 800");Fi[[	@KiìI"Ínewobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800")
+out("/StemV 50")
+out(">>");Fi[	@PiöI"Ínewobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800")
+out("/StemV 60")
+out(">>");Fi[	@SièI"Ínewobj
+out("<</Type /FontDescriptor")
+out(("/FontName /" + var["name"]))
+out("/Flags 6")
+out("/FontBBox [0 -200 1000 900]")
+out("/ItalicAngle 0")
+out("/Ascent 800")
+out("/Descent -200")
+out("/CapHeight 800")
+out("/StemV 50")
+out(">>");Fi[I"max_value;FI"min_value;FI"(var - var);FI"(var == 0);FI"(var / 20.0);FI"((var + var) - var);Fi[[	@liI"èinclude(REXML)
+protected
+@var[:fields]
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0);Fi[	@oi	I"Úrequire("SVG/Graph/BarBase")
+init_with(:rotate_y_labels => (true), :show_x_guidelines => (true), :show_y_guidelines => (false))
+protected
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0);Fi[	@riI"∑@var[:fields]
+(((@var[:fields][0].length / 2) * font_size) * 0.6)
+(var > @var)
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0);Fi[I"min_value;FI"(var - var);FI"(var == 0);FI"(var / 20.0);FI"((var + var) - var);FI"scale_divisions;Fi[[	@liI"èprotected
+@var[:fields]
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers;Fi[	@oi
+I"‰init_with(:rotate_y_labels => (true), :show_x_guidelines => (true), :show_y_guidelines => (false))
+protected
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers;Fi[	@riI"∏(((@var[:fields][0].length / 2) * font_size) * 0.6)
+(var > @var)
+max_value
+min_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers;Fi[I"(var / 20.0);FI"((var + var) - var);FI"scale_divisions;FI"(var / 10.0);FI"scale_integers;FI"(var < 1);Fi[[	@liI"îmin_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0);Fi[	@oiI"îmin_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0);Fi[	@riI"îmin_value
+(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0);Fi[I"((var + var) - var);FI"scale_divisions;FI"(var / 10.0);FI"scale_integers;FI"(var < 1);FI"var.round;Fi[[	@liI"ñ(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var);Fi[	@oiI"ñ(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var);Fi[	@riI"ñ(var - var)
+(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var);Fi[I"scale_divisions;FI"(var / 10.0);FI"scale_integers;FI"(var < 1);FI"var.round;FI"((var % var) == 0);Fi[[	@liI"ù(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var);Fi[	@oiI"ù(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var);Fi[	@riI"ù(var == 0)
+(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var);Fi[I"(var / 10.0);FI"scale_integers;FI"(var < 1);FI"var.round;FI"((var % var) == 0);FI"(var + var);Fi[[	@liI"û(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var)
+(var / 2.0);Fi[	@oiI"†(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var)
+@var[:fields];Fi[	@ri I"û(var / 20.0)
+((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var)
+(var * var);Fi[I"scale_integers;FI"(var < 1);FI"var.round;FI"((var % var) == 0);FI"(var + var);FI"var.step(var, var);Fi[[	@liI"õ((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var)
+(var / 2.0)
+min_value;Fi[	@oiI"†((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var)
+@var[:fields]
+(var / -2.0);Fi[	@ri!I"¶((var + var) - var)
+scale_divisions
+(var / 10.0)
+scale_integers
+(var < 1)
+var.round
+((var % var) == 0)
+(var + var)
+var.step(var, var)
+(var * var)
+(@var - (var * var));Fi

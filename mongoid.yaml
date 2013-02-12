@@ -1,0 +1,19 @@
+# Tell Mongoid which environment this configuration is for.
+development:
+  # This starts the session configuration settings. You may have as
+  # many sessions as you like, but you must have at least 1 named
+  # 'default'.
+  sessions:
+    # Define the default session.
+    default:
+      # A session can have any number of hosts. Usually 1 for a single
+      # server setup, and at least 3 for a replica set. Hosts must be
+      # an array of host:port pairs. This session is single server.
+      hosts:
+        - linus.mongohq.com:10026
+      # Define the default database name.
+      database: code-patterns
+      # Since this database points at a session connected to MongoHQ, we must
+      # provide the authentication details.
+      username: ethan
+      password: 5thfloor
