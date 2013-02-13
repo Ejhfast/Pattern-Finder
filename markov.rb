@@ -244,15 +244,6 @@ def build_table(seg,d,hsh,f)
   end
 end
 
-# A really hacky way to flatten the table to relevent pieces
-def rec_flatten(d,app,ks)
-  if d > 0
-    "table#{app}.keys.each {|k#{d}| "+rec_flatten(d-1,app+"[k#{d}]",ks.push("k#{d}"))+ "}"
-  else
-    "val = table#{app}; if val.size > 2; freqs.push([#{ks.join(',')},val.size,val]); end"
-  end
-end
-
 table = InfinityHash.new
 loc = 0
 

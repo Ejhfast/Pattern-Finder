@@ -10,10 +10,10 @@ development:
       # server setup, and at least 3 for a replica set. Hosts must be
       # an array of host:port pairs. This session is single server.
       hosts:
-        - linus.mongohq.com:10026
+        - linus.mongohq.com:10028
       # Define the default database name.
-      database: code-patterns
+      database: cp2
       # Since this database points at a session connected to MongoHQ, we must
       # provide the authentication details.
-      username: ethan
-      password: 5thfloor
+      username: taazr
+      password: b*+steve
